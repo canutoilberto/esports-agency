@@ -8,8 +8,8 @@ import Footer from "@/components/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "E-Sports Agency Blog",
-  description: "Latest news and updates from the world of E-Sports",
+  title: "E-Sports Central",
+  description: "Your ultimate destination for E-Sports news, teams, and events",
 };
 
 export default function RootLayout({
@@ -22,7 +22,11 @@ export default function RootLayout({
       <body className={inter.className}>
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
           <Navbar />
-          {children}
+          <main className="min-h-screen pt-16">
+            {" "}
+            {/* Add padding-top here */}
+            {children}
+          </main>
           <Footer />
         </ThemeProvider>
       </body>
