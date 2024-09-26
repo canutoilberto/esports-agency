@@ -31,7 +31,8 @@ const posts: Post[] = [
     category: "Mobile Gaming",
     date: "2023-08-15",
     author: "Jane Doe",
-    imageUrl: "/placeholder.svg?height=200&width=400",
+    imageUrl:
+      "https://images.pexels.com/photos/2883029/pexels-photo-2883029.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
   },
   {
     id: 2,
@@ -41,7 +42,8 @@ const posts: Post[] = [
     category: "Strategy",
     date: "2023-08-10",
     author: "John Smith",
-    imageUrl: "/placeholder.svg?height=200&width=400",
+    imageUrl:
+      "https://images.unsplash.com/photo-1615680022648-2db11101c73a?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     id: 3,
@@ -51,7 +53,8 @@ const posts: Post[] = [
     category: "Industry",
     date: "2023-08-05",
     author: "Alex Johnson",
-    imageUrl: "/placeholder.svg?height=200&width=400",
+    imageUrl:
+      "https://images.pexels.com/photos/2883029/pexels-photo-2883029.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
   },
   {
     id: 4,
@@ -61,7 +64,8 @@ const posts: Post[] = [
     category: "Finance",
     date: "2023-07-30",
     author: "Sarah Williams",
-    imageUrl: "/placeholder.svg?height=200&width=400",
+    imageUrl:
+      "https://images.unsplash.com/photo-1615680022648-2db11101c73a?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
 ];
 

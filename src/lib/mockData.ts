@@ -5,7 +5,8 @@ export const mockPosts = [
     slug: "rise-of-mobile-esports",
     excerpt:
       "Exploring the growing trend of competitive gaming on smartphones and tablets.",
-    imageUrl: "/placeholder.svg?height=200&width=400",
+    imageUrl:
+      "https://images.pexels.com/photos/2883029/pexels-photo-2883029.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     publishedAt: "2023-08-15",
     categories: ["Mobile Gaming", "Industry Trends"],
   },
@@ -15,7 +16,8 @@ export const mockPosts = [
     slug: "top-5-battle-royale-strategies",
     excerpt:
       "Expert tips and tricks to help you secure more victories in popular battle royale titles.",
-    imageUrl: "/placeholder.svg?height=200&width=400",
+    imageUrl:
+      "https://images.unsplash.com/photo-1615680022648-2db11101c73a?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     publishedAt: "2023-08-10",
     categories: ["Strategy", "Battle Royale"],
   },
@@ -29,7 +31,8 @@ export const mockTeams = [
     slug: "cloud9",
     description:
       "One of the most recognizable brands in esports, competing across multiple titles.",
-    logoUrl: "/placeholder.svg?height=200&width=200",
+    logoUrl:
+      "https://images.unsplash.com/photo-1615680022648-2db11101c73a?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     primaryGame: "Multiple",
     achievements: [
       "LoL World Championship Quarterfinalists",
@@ -42,7 +45,8 @@ export const mockTeams = [
     slug: "team-liquid",
     description:
       "A multi-regional esports powerhouse with top teams in various games.",
-    logoUrl: "/placeholder.svg?height=200&width=200",
+    logoUrl:
+      "https://images.pexels.com/photos/2883029/pexels-photo-2883029.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     primaryGame: "Multiple",
     achievements: [
       "The International 2017 Champions",
@@ -59,7 +63,8 @@ export const mockEvents = [
     slug: "the-international-2023",
     description:
       "The biggest annual Dota 2 tournament, featuring the world's top teams.",
-    imageUrl: "/placeholder.svg?height=200&width=400",
+    imageUrl:
+      "https://images.pexels.com/photos/2883029/pexels-photo-2883029.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     startDate: "2023-10-12",
     endDate: "2023-10-29",
     location: "Seattle, USA",
@@ -72,7 +77,8 @@ export const mockEvents = [
     slug: "lol-worlds-2023",
     description:
       "The pinnacle of League of Legends esports, crowning the world's best team.",
-    imageUrl: "/placeholder.svg?height=200&width=400",
+    imageUrl:
+      "https://images.unsplash.com/photo-1615680022648-2db11101c73a?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     startDate: "2023-10-10",
     endDate: "2023-11-19",
     location: "South Korea",

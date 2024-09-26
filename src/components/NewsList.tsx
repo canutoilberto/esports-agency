@@ -29,7 +29,8 @@ const mockPosts: Post[] = [
     slug: "rise-of-mobile-esports",
     excerpt:
       "Exploring the growing trend of competitive gaming on smartphones and tablets.",
-    imageUrl: "/placeholder.svg?height=200&width=400",
+    imageUrl:
+      "https://images.unsplash.com/photo-1645109870868-e1b6f909e444?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     publishedAt: "2023-08-15",
     categories: ["Mobile Gaming", "Industry Trends"],
   },
@@ -39,7 +40,8 @@ const mockPosts: Post[] = [
     slug: "top-5-battle-royale-strategies",
     excerpt:
       "Expert tips and tricks to help you secure more victories in popular battle royale titles.",
-    imageUrl: "/placeholder.svg?height=200&width=400",
+    imageUrl:
+      "https://images.unsplash.com/photo-1623934199716-dc28818a6ec7?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     publishedAt: "2023-08-10",
     categories: ["Strategy", "Battle Royale"],
   },
@@ -49,7 +51,8 @@ const mockPosts: Post[] = [
     slug: "evolution-of-esports-broadcasting",
     excerpt:
       "How streaming platforms and production techniques have transformed the way we watch competitive gaming.",
-    imageUrl: "/placeholder.svg?height=200&width=400",
+    imageUrl:
+      "https://images.unsplash.com/photo-1553492206-f609eddc33dd?q=80&w=1631&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     publishedAt: "2023-08-05",
     categories: ["Broadcasting", "Industry"],
   },
@@ -59,7 +62,8 @@ const mockPosts: Post[] = [
     slug: "esports-prize-pools-breakdown",
     excerpt:
       "An analysis of the largest tournament prize pools and what they mean for the industry.",
-    imageUrl: "/placeholder.svg?height=200&width=400",
+    imageUrl:
+      "https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     publishedAt: "2023-07-30",
     categories: ["Finance", "Tournaments"],
   },
@@ -69,7 +73,8 @@ const mockPosts: Post[] = [
     slug: "psychology-of-esports",
     excerpt:
       "Delving into the mental aspects of competitive gaming and how pro players prepare for high-stakes matches.",
-    imageUrl: "/placeholder.svg?height=200&width=400",
+    imageUrl:
+      "https://images.unsplash.com/photo-1657664072470-99b02c2143f2?q=80&w=1631&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     publishedAt: "2023-07-25",
     categories: ["Psychology", "Pro Gaming"],
   },
@@ -79,7 +84,8 @@ const mockPosts: Post[] = [
     slug: "emerging-esports-markets-2023",
     excerpt:
       "A look at the up-and-coming regions that are making waves in the global esports scene.",
-    imageUrl: "/placeholder.svg?height=200&width=400",
+    imageUrl:
+      "https://images.unsplash.com/photo-1614680376739-414d95ff43df?q=80&w=1674&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     publishedAt: "2023-07-20",
     categories: ["Global Esports", "Market Analysis"],
   },

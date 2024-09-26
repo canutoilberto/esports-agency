@@ -33,7 +33,8 @@ const mockEvents: Event[] = [
     slug: "the-international-2023",
     description:
       "The biggest annual Dota 2 tournament, featuring the world's top teams.",
-    imageUrl: "/placeholder.svg?height=200&width=400",
+    imageUrl:
+      "https://images.unsplash.com/photo-1624138149925-6c1dd2d60460?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     startDate: "2023-10-12",
     endDate: "2023-10-29",
     location: "Seattle, USA",
@@ -46,7 +47,8 @@ const mockEvents: Event[] = [
     slug: "lol-worlds-2023",
     description:
       "The pinnacle of League of Legends esports, crowning the world's best team.",
-    imageUrl: "/placeholder.svg?height=200&width=400",
+    imageUrl:
+      "https://images.unsplash.com/photo-1619017120498-872bb10a14a6?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     startDate: "2023-10-10",
     endDate: "2023-11-19",
     location: "South Korea",
@@ -59,7 +61,8 @@ const mockEvents: Event[] = [
     slug: "pgl-csgo-major-copenhagen-2024",
     description:
       "One of the most prestigious Counter-Strike: Global Offensive tournaments.",
-    imageUrl: "/placeholder.svg?height=200&width=400",
+    imageUrl:
+      "https://images.unsplash.com/photo-1636036824578-d0d300a4effb?q=80&w=1744&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     startDate: "2024-03-17",
     endDate: "2024-03-31",
     location: "Copenhagen, Denmark",
@@ -72,7 +75,8 @@ const mockEvents: Event[] = [
     slug: "valorant-champions-tour-2023",
     description:
       "The ultimate Valorant competition, featuring the best teams from around the world.",
-    imageUrl: "/placeholder.svg?height=200&width=400",
+    imageUrl:
+      "https://images.unsplash.com/photo-1623820919239-0d0ff10797a1?q=80&w=1674&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     startDate: "2023-08-06",
     endDate: "2023-08-26",
     location: "Los Angeles, USA",
@@ -84,7 +88,8 @@ const mockEvents: Event[] = [
     name: "ESL Pro League Season 17",
     slug: "esl-pro-league-season-17",
     description: "Top-tier CS:GO action featuring the world's best teams.",
-    imageUrl: "/placeholder.svg?height=200&width=400",
+    imageUrl:
+      "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?q=80&w=1631&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     startDate: "2023-02-22",
     endDate: "2023-03-26",
     location: "Malta",
@@ -97,7 +102,8 @@ const mockEvents: Event[] = [
     slug: "evo-2023",
     description:
       "The largest and longest-running fighting game tournament in the world.",
-    imageUrl: "/placeholder.svg?height=200&width=400",
+    imageUrl:
+      "https://images.unsplash.com/photo-1534423861386-85a16f5d13fd?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     startDate: "2023-08-04",
     endDate: "2023-08-06",
     location: "Las Vegas, USA",

@@ -29,7 +29,8 @@ const mockTeams: Team[] = [
     slug: "cloud9",
     description:
       "One of the most recognizable brands in esports, competing across multiple titles.",
-    logoUrl: "/placeholder.svg?height=200&width=200",
+    logoUrl:
+      "https://plus.unsplash.com/premium_photo-1720601645664-98b6b06efeca?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     primaryGame: "Multiple",
     achievements: [
       "LoL World Championship Quarterfinalists",
@@ -42,7 +43,8 @@ const mockTeams: Team[] = [
     slug: "team-liquid",
     description:
       "A multi-regional esports powerhouse with top teams in various games.",
-    logoUrl: "/placeholder.svg?height=200&width=200",
+    logoUrl:
+      "https://images.unsplash.com/photo-1663813251302-e5d2c7199e86?q=80&w=1720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     primaryGame: "Multiple",
     achievements: [
       "The International 2017 Champions",
@@ -55,7 +57,8 @@ const mockTeams: Team[] = [
     slug: "fnatic",
     description:
       "One of the oldest and most successful esports organizations in the world.",
-    logoUrl: "/placeholder.svg?height=200&width=200",
+    logoUrl:
+      "https://images.unsplash.com/photo-1581432079854-2f6d5678b478?q=80&w=1674&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     primaryGame: "Multiple",
     achievements: [
       "LoL World Championship 2011 Winners",
@@ -68,7 +71,8 @@ const mockTeams: Team[] = [
     slug: "t1",
     description:
       "Legendary Korean esports organization, known for their dominance in League of Legends.",
-    logoUrl: "/placeholder.svg?height=200&width=200",
+    logoUrl:
+      "https://images.unsplash.com/photo-1624138149925-6c1dd2d60460?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     primaryGame: "League of Legends",
     achievements: ["3x LoL World Championship Winners", "2x MSI Champions"],
   },
@@ -78,7 +82,8 @@ const mockTeams: Team[] = [
     slug: "og",
     description:
       "Dota 2 team that made history by winning The International back-to-back.",
-    logoUrl: "/placeholder.svg?height=200&width=200",
+    logoUrl:
+      "https://images.unsplash.com/photo-1683029240907-1b195812422c?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     primaryGame: "Dota 2",
     achievements: ["2x The International Champions", "4x Dota 2 Major Winners"],
   },
@@ -88,7 +93,8 @@ const mockTeams: Team[] = [
     slug: "faze-clan",
     description:
       "Popular organization known for content creation and competitive gaming.",
-    logoUrl: "/placeholder.svg?height=200&width=200",
+    logoUrl:
+      "https://images.unsplash.com/photo-1689443111384-1cf214df988a?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     primaryGame: "Multiple",
     achievements: ["CS:GO Major Champions", "Call of Duty League Champions"],
   },
