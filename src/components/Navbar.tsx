@@ -13,12 +13,12 @@ const Navbar = () => {
   const toggleMenu = () => setIsMenuOpen(!isMenuOpen);
 
   return (
-    <nav className="bg-background shadow-sm">
+    <nav className="bg-background/80 backdrop-blur-sm shadow-sm fixed top-0 left-0 right-0 z-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between h-16">
           <div className="flex-shrink-0 flex items-center">
             <Link href="/" className="text-2xl font-bold text-primary">
-              E-Sports Blog
+              E-Sports Central
             </Link>
           </div>
           <div className="hidden sm:ml-6 sm:flex sm:items-center">
@@ -42,7 +42,7 @@ const Navbar = () => {
         </div>
       </div>
       {isMenuOpen && (
-        <div className="sm:hidden">
+        <div className="sm:hidden absolute top-16 left-0 right-0 bg-background/80 backdrop-blur-sm">
           <div className="px-2 pt-2 pb-3 space-y-1">
             <MobileNavLink href="/" onClick={toggleMenu}>
               Home
